@@ -1,4 +1,4 @@
-# Advanced NLP
+# NLP Techniques and best practices
 
 ### Content
 - Intro about NLP
